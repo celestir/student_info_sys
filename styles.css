@@ -1,0 +1,84 @@
+.divheader
+{
+	width:705px;
+	height: 40px;
+	position: absolute;
+	border: 1px solid black;
+	background-color:black;
+	color: white;
+	font-size:40px;
+	
+}
+.divheader2
+{
+	width: 310px;
+	height:40px;
+	position: absolute;
+	border: 1px solid black;
+	left:720px;
+	background-color:black;
+	color: white;
+	font-size:40px;
+	
+}
+.div1
+	{
+		border: black 1px solid;
+		width: 705px;
+		height: 500px;
+		position: absolute;
+		top:50px;
+	}
+	.div2
+	{
+		border: black 1px solid;
+		width: 310px;
+		height: 500px;
+		position: absolute;
+		left: 720px;
+		font-size: 20;
+		top:50px;
+	}
+	.div3
+	{
+		position: absolute;
+		border: 1px solid black;
+		width: 100px;
+		height:32px;
+		top:450px;
+		background-color: gray;
+		color: white;
+		font-size:15px;
+		overflow:auto;
+	}
+	
+	.tbl_record
+	{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-size:27;
+		width: 690px;
+	}
+	.tbl_record tr td #a1:hover
+	{
+		background-color: black;
+		
+		color: white;
+	}
+	.tbl_record #tr1:hover
+	{
+		background-color:black;
+		color:white;
+	}
+	
+	
+	.div4
+	{
+		position: absolute;
+		left: 130px;
+		top:450px;
+		height: 30px;
+		width:345px;
+		border: 1px solid black;
+		font-size:20px;
+	}
+	
